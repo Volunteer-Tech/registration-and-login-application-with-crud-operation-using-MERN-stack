@@ -50,4 +50,6 @@ To run react frontend
 ### Product Pagination screen
 [![dashboard](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png) -->
 
+## Contributing
 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
