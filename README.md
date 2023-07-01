@@ -2,7 +2,7 @@
 
 ## 🔆 🍃 Nodejs(Express.js) + mongoDB + mongoose + JWT + react.js + material-ui + axios(API call)
 
-Simlple example of user registration, login and CRUD action with backend restAPI using mongoDB, Nodejs(Express.js) and mongoose, authentication using JWT token also pagination and frontend using react.js and material-ui api calling with axios.
+Simlple example of user registration, login and CRUD action with backend restAPI using mongoDB, Nodejs, Express.js, and mongoose, authentication using JWT token also pagination and frontend using react.js and material-ui api calling with axios.
 
 This project is just to help MERN stack beginners learn the basics, intentionally made for our students at [Volunteer Tech®](https://volunteer-tech.com/) as a reference material. 
 
